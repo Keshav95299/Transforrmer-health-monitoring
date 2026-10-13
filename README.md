@@ -11,6 +11,12 @@ A Python notebook for exploring transformer loading, oil temperature, and mainte
 - Classify transformers as Normal, Warning, Critical, or Unknown.
 - Display the 20 most heavily loaded transformers and risk category counts.
 
+## Data Source
+  This project uses synthetic transformer loading and maintenance datasets created for learning and demonstration purposes. They do not represent actual utility or company records.
+
+The analysis workflow, missing-data checks, risk-classification logic, and visualizations are designed to demonstrate realistic power-system asset monitoring tasks.
+  
+
 ## Project files
 
 ```text
