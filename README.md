@@ -19,14 +19,13 @@ transformer-health-monitoring/
 ├── data/
 │   ├── transformer_loading_final.xlsx
 │   └── maintenance_history_final.xlsx
-├── outputs/
-├── reports/
+
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+└── 
 ```
 
-The notebook includes saved tables and charts. Separate plot files are not required. The `outputs/` and `reports/` folders are reserved for future exports and written findings; `.gitkeep` files keep these empty folders in GitHub.
+The notebook includes saved tables and charts. Separate plot files are not required.
 
 ## Run the notebook
 
